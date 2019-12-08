@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Grammar Game</string>
+    <string name="Barticle">Article</string>
+    <string name="BPSimple">Present Simple</string>
+    <string name="BPCon">Present Continuous</string>
+    <string name="BP">Persent Perfect</string>
+    <string name="BPPC">Persent Perfect Continuous</string>
+    <string name="BPaS">Past Simple</string>
+    <string name="BPaC">Past Continuous</string>
+    <string name="BPaP">Past Perfect</string>
+    <string name="BPaPC">Past Perfect Continuous</string>
+    <string name="BFT">Future Tense</string>
+    <string name="BFC">Future Continuous</string>
+    <string name="BFP">Future Perfect</string>
+    <string name="BFPC">Future Perfect Continuous</string>
+    <string name="IActive">Active...Passive</string>
+    <string name="IAfter">After</string>
+    <string name="IAlthough">Although..InspiteOf</string>
+    <string name="Iboth">Both..and</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="title_activity_past">PastActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
