@@ -63,10 +63,11 @@
                     android:gravity="center"
                     android:padding="16dp"
                     android:orientation="vertical">
+
                     <ImageView
                         android:layout_width="88dp"
-                        android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:layout_height="94dp"
+                        android:src="@drawable/ll" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -99,7 +100,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -133,7 +134,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -168,7 +169,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -202,7 +203,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -236,7 +237,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -270,7 +271,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -304,7 +305,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -339,7 +340,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -373,7 +374,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -406,7 +407,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -440,7 +441,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -474,7 +475,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -508,7 +509,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -541,7 +542,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -574,7 +575,7 @@
                     <ImageView
                         android:layout_width="88dp"
                         android:layout_height="88dp"
-                        android:src="@drawable/b"/>
+                        android:src="@drawable/ll"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"

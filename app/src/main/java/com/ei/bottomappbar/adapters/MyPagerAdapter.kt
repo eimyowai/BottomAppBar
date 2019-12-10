@@ -14,8 +14,8 @@ class MyPagerAdapter(val context: Context,val fm:FragmentManager) :FragmentPager
         var frag : Fragment?=null
         when(position){
             0 -> frag = LessonFrag()
-            1 -> frag=Question1()
-            2 -> frag=Question2()
+            1 -> frag= Question1()
+            2 -> frag= Question2()
 
         }
         return frag!!

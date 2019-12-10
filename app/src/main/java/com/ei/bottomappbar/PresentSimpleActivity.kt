@@ -6,22 +6,21 @@ import com.google.android.material.snackbar.Snackbar
 
 import androidx.appcompat.app.AppCompatActivity
 
-import com.ei.bottomappbar.adapters.MyPagerAdapter
+import com.ei.bottomappbar.adapters.PastConAdapter
+import com.ei.bottomappbar.adapters.PresentSimpleAdapter
 
-import kotlinx.android.synthetic.main.activity_past.*
+import kotlinx.android.synthetic.main.activity_past_con.*
 
-class PastActivity : AppCompatActivity() {
+class PresentSimpleActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_past)
-        val sectionsPagerAdapter = MyPagerAdapter(this, supportFragmentManager)
+        setContentView(R.layout.activity_past_con)
+        val sectionsPagerAdapter = PresentSimpleAdapter(this, supportFragmentManager)
 
         view_pager.adapter = sectionsPagerAdapter
 
-
         tabs.setupWithViewPager(view_pager)
-
         val fab: FloatingActionButton = findViewById(R.id.fab)
 
         fab.setOnClickListener { view ->

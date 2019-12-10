@@ -12,12 +12,36 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".PastActivity"
-            android:label="@string/title_activity_past"
+            android:name=".PaSimpleActivity"
+            android:label="@string/title_activity_pa_simple"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
-            android:name=".ArticleActivity"
-            android:label="@string/title_activity_article"
+            android:name=".PastPerfectContinuous"
+            android:label="@string/title_activity_past_perfect_continuous"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PastPerfect"
+            android:label="@string/title_activity_past_perfect"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PresentPerfectContinuous"
+            android:label="@string/title_activity_present_perfect_continuous"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PresentPerfect"
+            android:label="@string/title_activity_present_perfect"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PresentContinuous"
+            android:label="@string/title_activity_present_continuous"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PastConActivity"
+            android:label="@string/title_activity_past_con"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PastActivity"
+            android:label="@string/title_activity_past"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".presentSimpleActivity" />
         <activity android:name=".MainActivity">

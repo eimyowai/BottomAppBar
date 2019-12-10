@@ -1,4 +1,4 @@
-package com.ei.bottomappbar.frags
+package com.ei.bottomappbar.PSimpleFrag
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import com.ei.bottomappbar.R
 import kotlinx.android.synthetic.main.frag_view.*
 
-class LessonFrag:Fragment() {
+class PSimpleLessonFrag: Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -18,7 +18,8 @@ class LessonFrag:Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        tvRes.text="         -လက္ရွိ action ကိုေၿပာရင္ V1 သုံး\n" +
+        tvRes.text="  Present Simple Tense " +
+                "       -လက္ရွိ action ကိုေၿပာရင္ V1 သုံး\n" +
                 "        - habitual action ဆိုရင္လည္း V1 သုံး\n" +
                 "        -always, usually, generally, often, frequently, rarely,\n" +
                 "        seldom, every, day, daily, every week, weekly, every year, \n" +

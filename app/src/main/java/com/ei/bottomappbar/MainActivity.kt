@@ -12,15 +12,19 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         presentSimple.setOnClickListener {
-            val intent = Intent(context@this,presentSimpleActivity::class.java)
+            val intent = Intent(context@this,PresentSimpleActivity::class.java)
             startActivity(intent)
         }
-        article.setOnClickListener {
-            val intent = Intent(context@this,PastActivity::class.java)
+        presentPerfect.setOnClickListener {
+            val intent = Intent(context@this,PresentPerfect::class.java)
             startActivity(intent)
         }
         pastCon.setOnClickListener {
-            val intent = Intent(context@this,PastActivity::class.java)
+            val intent = Intent(context@this,PastConActivity::class.java)
+            startActivity(intent)
+        }
+        pastSimple.setOnClickListener {
+            val intent = Intent(context@this,PaSimpleActivity::class.java)
             startActivity(intent)
         }
 

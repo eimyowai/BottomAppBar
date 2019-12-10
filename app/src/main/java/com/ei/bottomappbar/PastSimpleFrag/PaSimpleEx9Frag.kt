@@ -1,4 +1,4 @@
-package com.ei.bottomappbar.frags
+package com.ei.bottomappbar.PastSimpleFrag
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,16 +8,19 @@ import androidx.fragment.app.Fragment
 import com.ei.bottomappbar.R
 import kotlinx.android.synthetic.main.frag_view.*
 
-class Question2:Fragment() {
+class PaSimpleEx9Frag: Fragment() {
     override fun onCreateView(
-        inflater: LayoutInflater,
-        container: ViewGroup?,
-        savedInstanceState: Bundle?
+            inflater: LayoutInflater,
+            container: ViewGroup?,
+            savedInstanceState: Bundle?
     ): View? {
         return inflater.inflate(R.layout.frag_view,container,false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        tvRes.text="Where are you from"
+        tvRes.text="      Present Perfect Continuous Tense   " +
+                " -တိတ္/ ခု/ ဆက္ ဆိုရင္ present perfect continuous သုံး\n" +
+                "           has/have been + ving"
     }
+
 }
